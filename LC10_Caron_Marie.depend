@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1679912952 source:c:\users\utilisateur\dropbox\hepl\année_2022-2023\bloc_1\ue_langage_et_logique_de_programmation_2\llp_notions_avancées\mme_léonard\laboratoires\dossiers\dossier_1\mon_document\lc10_caron_marie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1680164526 source:c:\users\utilisateur\dropbox\hepl\année_2022-2023\bloc_1\ue_langage_et_logique_de_programmation_2\llp_notions_avancées\mme_léonard\laboratoires\dossiers\dossier_1\mon_document\lc10_caron_marie\lc10_caron_marie_main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
